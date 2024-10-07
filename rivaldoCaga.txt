@@ -1,3 +1,11 @@
 Hi my name is Rivaldo Caga
 
 My favorite color is blue
+<<<<<<< HEAD
+=======
+Hi my name is Caga
+
+I like swimming
+
+I like playing mobile
+>>>>>>> practice
